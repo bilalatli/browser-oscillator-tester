@@ -1,6 +1,6 @@
 # Browser Oscillator Tester
 
-With this application, you can make oscillator tests on your scanner and produce sounds in different frequencies. You can also use predefined waveforms and examine them.
+With this application, you can make oscillator tests on your browser and produce sounds in different frequencies. You can also use predefined waveforms and examine them.
 
 This is an oscillator test project that you have prepared for a javascript based emulator.
 

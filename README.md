@@ -11,4 +11,7 @@ Run `./php-serve.sh` or `./python-serve.sh`
 
 Open ``http://127.0.0.1:8018`` on your browser
 
+## Test without installation
+Url : ``https://oscillator.bilalatli.com/``
+
 **Have Fun :)**
